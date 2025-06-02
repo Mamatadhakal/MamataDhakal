@@ -1,12 +1,12 @@
-## 👋 Hello, I'm Mamata Dhakal!
-🚀 **Facilitator | [Your Expertise] | [Your Passion]**
- 
-🔹 Passionate about **[mention key skills/topics]**  
-🔹 Currently working on **[project name or company name]**  
-🔹 Open to collaborating on **[mention types of projects]**  
-🔹 Learning **[any new technology or skill you're exploring]**  
- 
----
+ Hello, I'm Mamata Dhakal!
+🚀 Project Manager | Data Enthusiast | Nurse 
+
+🔹 Passionate about project planning, data storytelling, and human-centered healthcare
+🔹 Currently building my data analyst portfolio and exploring tech-enabled healthcare solutions
+🔹 Open to collaborating on remote health-tech projects, data-driven research, and digital content
+🔹 Learning Python, SQL, Power BI, and Tableau to strengthen my analytics and visualization skills
+
+
  
 ### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
