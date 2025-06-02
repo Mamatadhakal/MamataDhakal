@@ -1,6 +1,6 @@
 Hello, I'm Mamata Dhakal!
 
-🚀 Project Manager | Data Enthusiast | Wellness Advocate
+🚀 Project Manager | Data Enthusiast | Nurse
 
 🔹 I’m passionate about project planning, data storytelling, and human-centered healthcare.
 
