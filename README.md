@@ -1,10 +1,14 @@
- Hello, I'm Mamata Dhakal!
-🚀 Project Manager | Data Enthusiast | Nurse 
+Hello, I'm Mamata Dhakal!
 
-🔹 Passionate about project planning, data storytelling, and human-centered healthcare 
-🔹 Currently building my data analyst portfolio and exploring tech-enabled healthcare solutions 
-🔹 Open to collaborating on remote health-tech projects, data-driven research, and digital content 
-🔹 Learning Python, SQL, Power BI, and Tableau to strengthen my analytics and visualization skills 
+🚀 Project Manager | Data Enthusiast | Wellness Advocate
+
+🔹 I’m passionate about project planning, data storytelling, and human-centered healthcare.
+
+🔹 I’m currently building my data analyst portfolio and exploring tech-enabled healthcare solutions.
+
+🔹 I’m open to collaborating on remote health-tech projects, data-driven research, and digital content.
+
+🔹 I’m learning Python, SQL, Power BI, and Tableau to strengthen my analytics and visualization skills.
 
 
  
