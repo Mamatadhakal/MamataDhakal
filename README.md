@@ -1,10 +1,10 @@
  Hello, I'm Mamata Dhakal!
 🚀 Project Manager | Data Enthusiast | Nurse 
 
-🔹 Passionate about project planning, data storytelling, and human-centered healthcare
-🔹 Currently building my data analyst portfolio and exploring tech-enabled healthcare solutions
-🔹 Open to collaborating on remote health-tech projects, data-driven research, and digital content
-🔹 Learning Python, SQL, Power BI, and Tableau to strengthen my analytics and visualization skills
+🔹 Passionate about project planning, data storytelling, and human-centered healthcare 
+🔹 Currently building my data analyst portfolio and exploring tech-enabled healthcare solutions 
+🔹 Open to collaborating on remote health-tech projects, data-driven research, and digital content 
+🔹 Learning Python, SQL, Power BI, and Tableau to strengthen my analytics and visualization skills 
 
 
  
@@ -18,11 +18,7 @@
  
 ---
  
-### 📊 GitHub Stats:
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
-</p>
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MamataDhakal&show_icons=true&theme=tokyonight" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MamataDhakal&theme=tokyonight" /> </p>
  
 ---
  
